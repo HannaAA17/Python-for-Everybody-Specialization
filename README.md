@@ -2,4 +2,6 @@
 Specialization Materials and Projects
 
 > kepping track of the courses and materials
-[Coursera NQEUE85XUZGN.pdf](https://github.com/HannaAA17/Python-for-Everybody-Specialization/files/7889323/Coursera.NQEUE85XUZGN.pdf)
+
+![image](https://user-images.githubusercontent.com/90071553/149945289-5d52f578-bc21-4142-b907-a753d311cccd.png)
+
